@@ -1,0 +1,62 @@
+ul{
+    display: flex;
+    align-items: center;
+    list-style: none;
+    gap: 50px;
+    font-size: 30px;
+
+}
+span{
+    color: hsl(231, 7%, 65%);
+    font-size: 30px;
+}
+.head-container{
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+    padding-right: 170px;
+    padding-left: 170px;
+    padding-top: 30px
+    ;
+}
+.main-container{
+    display: flex;
+    padding: 170px;
+    gap: 300px;
+}
+.box-left{
+    width: 600px;
+}
+
+
+.span-2{
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+
+}
+.monogram{
+    color: hsl(231, 7%, 65%);
+    letter-spacing: 3px;
+}
+h1{
+    font-size: 100px;
+}
+h3{
+   color: hsl(230, 11%, 40%);
+}
+button{
+    background-color:hsl(0, 100%, 68%) ;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.demo{
+    display: flex;
+    gap: 10px
+    ;
+}
+.mini-box{
+    display: flex;
+}
